@@ -1,0 +1,3 @@
+display_name: GEE
+short_description: Run personal Google Earth Engine workflows with project aliases, Drive exports, and task logs.
+default_prompt: Use my GEE project aliases and G:\GEE workspace to run or prepare an Earth Engine workflow.

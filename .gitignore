@@ -1,0 +1,9 @@
+config/projects.local.json
+tasks/*.csv
+tasks/*.jsonl
+outputs/
+downloads/
+tmp/
+__pycache__/
+*.pyc
+.env
