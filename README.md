@@ -284,4 +284,4 @@ It intentionally excludes:
 
 ## License
 
-No license has been selected yet. Add one before encouraging broad reuse.
+This project is licensed under the MIT License.
